@@ -52,6 +52,15 @@
             <artifactId>jackson-databind</artifactId>
             <version>2.9.0.pr4</version>
         </dependency>
+        <dependency>
+            <groupId>io.projectreactor.netty</groupId>
+            <artifactId>reactor-netty</artifactId>
+            <version>0.9.2.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>io.projectreactor.netty</groupId>
+            <artifactId></artifactId>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
